@@ -12,9 +12,9 @@
 
 ### Tópicos 
 
-:small_blue_diamond: [Problema](#descrição-do-projeto-writing_hand) :heavy_check_mark:
+:small_blue_diamond: [Problema](#problema-writing_hand) :heavy_check_mark:
 
-:small_blue_diamond: [Objetivo](#objetivos-do-projeto-dart) :heavy_check_mark:
+:small_blue_diamond: [Objetivo](#objetivo-dart) :heavy_check_mark:
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades-video_game) :heavy_check_mark:
 
