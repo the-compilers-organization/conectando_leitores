@@ -63,4 +63,4 @@ Time responsável pelo desenvolvimento do projeto
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: 2024 - Conectando Leitores
+Copyright :copyright: 2026 - Conectando Leitores
