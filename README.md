@@ -12,7 +12,11 @@
 
 ### Tópicos 
 
+:small_blue_diamond: [Contexto](#contexto-information_source) :heavy_check_mark:
+
 :small_blue_diamond: [Problema](#problema-writing_hand) :heavy_check_mark:
+
+:small_blue_diamond: [Público-Alvo](#publico-alvo-busts_in_silhouette) :heavy_check_mark:
 
 :small_blue_diamond: [Objetivo](#objetivo-dart) :heavy_check_mark:
 
@@ -22,12 +26,30 @@
 
 ... 
 
+## Contexto :information_source:
+
+<p align="justify">
+  Plataforma digital para troca de livros entre usuários.
+</p>
+
+...
+
 ## Problema :writing_hand:
 
 <p align="justify">
   Muitas pessoas possuem livros parados em casa e gostariam de acessar novas leituras sem custo, mas não possuem uma plataforma simples e segura para realizar trocas com outras pessoas da comunidade.
 </p>
 
+...
+
+## Público-Alvo :busts_in_silhouette:
+
+- Leitores
+- Estudantes
+- Pessoas interessadas em leitura
+- Comunidades de troca de livros
+
+...
 
 ## Objetivo :dart:
 
@@ -35,6 +57,7 @@
   Permitir que usuários cadastrem livros disponíveis para troca, encontrem livros de interesse e realizem negociações de forma simples e organizada.
 </p>
 
+...
 
 ## Funcionalidades :video_game:
 
@@ -57,7 +80,7 @@ Time responsável pelo desenvolvimento do projeto
 | [<img src="https://avatars.githubusercontent.com/u/222337719?v=4" width=115><br><sub>Allan Lucas</sub>](https://github.com/allagez) | [<img src="https://avatars.githubusercontent.com/u/229312657?v=4" width=115><br><sub>Breno Bezerra</sub>](https://github.com/brenobezerra2014-cyber) | [<img src="https://avatars.githubusercontent.com/u/130801505?v=4" width=115><br><sub>Francis Lauriano</sub>](https://github.com/FrancisLauriano) | [<img src="https://avatars.githubusercontent.com/u/234993270?v=4" width=115><br><sub>Jeanne Espíndola</sub>](https://github.com/Jeanne3229)
 | :---: | :---: | :---: | :---:
 
-
+...
 
 ## Licença 
 
