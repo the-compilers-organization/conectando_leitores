@@ -16,7 +16,7 @@
 
 :small_blue_diamond: [Problema](#problema-writing_hand) :heavy_check_mark:
 
-:small_blue_diamond: [Público-Alvo](#publico-alvo-busts_in_silhouette) :heavy_check_mark:
+:small_blue_diamond: [Público-Alvo](#público-alvo-busts_in_silhouette) :heavy_check_mark:
 
 :small_blue_diamond: [Objetivo](#objetivo-dart) :heavy_check_mark:
 
