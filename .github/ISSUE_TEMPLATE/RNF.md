@@ -35,7 +35,7 @@ Explique claramente o que precisa ser feito nesta tarefa.
 
 ## Campos recomendados no Board
 
-Tipo: Requirement\
+Tipo: RNF\
 Sprint: Sprint X\
 Prioridade: Alta / Média / Baixa\
 Story Points: 1 ou 2
