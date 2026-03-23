@@ -1,70 +1,38 @@
-# BUGXX - Título do Bug
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
-## Descrição do Problema
+---
 
-Descreva claramente o problema encontrado no sistema.
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-------------------------------------------------------------------------
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-## Passos para Reproduzir
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-1.  Acessar a página ou funcionalidade
-2.  Executar a ação que causa o erro
-3.  Repetir o processo
-4.  Observar o comportamento inesperado
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-------------------------------------------------------------------------
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-## Resultado Esperado
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-Descreva o comportamento correto esperado do sistema.
-
-------------------------------------------------------------------------
-
-## Resultado Atual
-
-Descreva o comportamento que realmente está acontecendo.
-
-------------------------------------------------------------------------
-
-## Impacto
-
-Explique como o bug afeta o sistema ou os usuários.
-
-Exemplos: - Usuários conseguem selecionar o mesmo número da rifa -
-Inconsistência no sorteio - Falha na experiência do usuário
-
-------------------------------------------------------------------------
-
-## Critérios de Correção
-
--   [ ] Bug reproduzido pela equipe
--   [ ] Correção implementada
--   [ ] Testes realizados
--   [ ] Teste de regressão executado
--   [ ] Bug validado após correção
-
-------------------------------------------------------------------------
-
-## Informações do Ambiente
-
--   Sistema: Web / Mobile
--   Navegador:
--   Versão:
--   Data do teste:
-
-------------------------------------------------------------------------
-
-## Relacionamentos
-
-Epic: E05 - Correção de Defeitos\
-User Story relacionada: (ex: US04 - Escolher número da rifa)
-
-------------------------------------------------------------------------
-
-## Campos recomendados no Board
-
-Tipo: Bug\
-Priority: P0 / P1 / P2\
-Sprint: definir conforme planejamento\
-Story Points: normalmente vazio
+**Additional context**
+Add any other context about the problem here.
