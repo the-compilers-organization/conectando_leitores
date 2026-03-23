@@ -1,10 +1,8 @@
 ---
-name: Epic
 about: Criar uma Epic (grande funcionalidade do sistema)
-title: E00 -
 labels: epic
-assignees: ''
-
+name: Epic
+title: E00 -
 ---
 
 ## Descrição da Epic
