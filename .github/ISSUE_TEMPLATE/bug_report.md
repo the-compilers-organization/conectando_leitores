@@ -4,7 +4,7 @@ about: Reportar um erro ou comportamento inesperado no sistema
 title: "[BUG] - "
 labels: bug
 
-----
+---
 
 ## Descrição do Problema
 
