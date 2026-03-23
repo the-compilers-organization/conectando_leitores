@@ -1,8 +1,10 @@
 ---
-about: Criar uma tarefa técnica relacionada a uma User Story
-labels: task
 name: Task
+about: Criar uma tarefa técnica relacionada a uma User Story
 title: TXX -
+labels: task
+assignees: ''
+
 ---
 
 ## User Story Relacionada
