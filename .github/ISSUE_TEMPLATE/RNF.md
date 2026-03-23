@@ -1,12 +1,13 @@
 ---
-about: Criar um requisito não funcional relacionada a um Epic
+about: Criar uma tarefa técnica relacionada a uma User Story
 labels: RNF
 name: RNF
 title: RNFXX -
 ---
 
-## Epic Relacionado
+## User Story Relacionada
 
+USXX - Nome da User Story\
 Epic: EXX - Nome do Épico
 
 ------------------------------------------------------------------------
