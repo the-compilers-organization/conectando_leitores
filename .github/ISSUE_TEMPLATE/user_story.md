@@ -38,6 +38,10 @@ Explique com mais detalhes o contexto da funcionalidade.
 -   Regra 1
 -   Regra 2
 
+----------------------------------------------------------------------
+
+## Definition of Ready (DoR)
+
 ------------------------------------------------------------------------
 
 ## Definition of Done
