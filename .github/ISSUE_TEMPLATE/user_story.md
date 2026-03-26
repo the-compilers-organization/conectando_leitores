@@ -42,6 +42,10 @@ Explique com mais detalhes o contexto da funcionalidade.
 
 ## Definition of Ready (DoR)
 
+-   [ ] Critério 1
+-   [ ] Critério 2
+-   [ ] Critério 3
+
 ------------------------------------------------------------------------
 
 ## Definition of Done
