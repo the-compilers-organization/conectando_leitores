@@ -1,5 +1,8 @@
 # 🟢 Sprint 1 – Planejamento e Definição do Backlog
 
+📅 **Período:** 01/03/2026 a 14/03/2026  
+⏱️ **Duração:** 2 semanas  
+
 ------------------------------------------------------------------------
 
 ## 1️⃣ Objetivo da Sprint
@@ -92,19 +95,19 @@ Criar histórias de usuário baseadas nos Epics definidos.
 
 Ao final da Sprint 1, foram entregues:
 
-- Estrutura completa de Epics do sistema definida (E01 a E05)
-- Criação das histórias de usuário (US01 a US15)
-- Backlog organizado no GitHub Projects
-- Histórias documentadas com critérios de aceitação (BDD)
-- Base estruturada para início do desenvolvimento
+- Estrutura completa de Epics do sistema definida (E01 a E05)  
+- Criação das histórias de usuário (US01 a US15)  
+- Backlog organizado no GitHub Projects  
+- Histórias documentadas com critérios de aceitação (BDD)  
+- Base estruturada para início do desenvolvimento  
 
 ------------------------------------------------------------------------
 
 ## 📊 Resultado da Sprint
 
-- Backlog estruturado ✔
-- Histórias definidas ✔
-- Organização do projeto concluída ✔
+- Backlog estruturado ✔  
+- Histórias definidas ✔  
+- Organização do projeto concluída ✔  
 
 ------------------------------------------------------------------------
 
