@@ -36,17 +36,17 @@ Identificar e estruturar os Epics que representarão as funcionalidades principa
 
 ## Critérios de Aceitação
 
-- [ ] Epics principais definidos
-- [ ] Epics documentados no GitHub Projects
-- [ ] Epics organizados por funcionalidades
+- [x] Epics principais definidos
+- [x] Epics documentados no GitHub Projects
+- [x] Epics organizados por funcionalidades
 
 ------------------------------------------------------------------------
 
 ## Definition of Done
 
-- [ ] Implementado
-- [ ] Testado
-- [ ] Documentado
+- [x] Implementado
+- [x] Testado
+- [x] Documentado
 
 ------------------------------------------------------------------------
 
@@ -74,17 +74,17 @@ Criar histórias de usuário baseadas nos Epics definidos.
 
 ## Critérios de Aceitação
 
-- [ ] Histórias criadas para cada Epic
-- [ ] Histórias com critérios de aceitação definidos
-- [ ] Histórias organizadas no board
+- [x] Histórias criadas para cada Epic
+- [x] Histórias com critérios de aceitação definidos
+- [x] Histórias organizadas no board
 
 ------------------------------------------------------------------------
 
 ## Definition of Done
 
-- [ ] Implementado
-- [ ] Testado
-- [ ] Documentado
+- [x] Implementado
+- [x] Testado
+- [x] Documentado
 
 ------------------------------------------------------------------------
 
