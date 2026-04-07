@@ -82,6 +82,8 @@ A organização do projeto segue práticas ágeis (Scrum), com registros de plan
 - Definição de objetivos  
 - Backlog das Sprints
 
+#### Registro do Planejamento:
+
 **1. Sprint 1 – Planejamento e Definição do Backlog:** [`docs/planning
 /planning_sptint_1_Planejamento_Definicao_Backlog.md
 `](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/planning%20/planning_sptint_1_Planejamento_Definicao_Backlog.md)
@@ -99,7 +101,16 @@ A organização do projeto segue práticas ágeis (Scrum), com registros de plan
 
 - Registros diários das atividades da equipe  
 - Acompanhamento do progresso  
-- Identificação de impedimentos  
+- Identificação de impedimentos
+
+#### Registro das Dailys:
+
+**1. Sprint 1 – Planejamento e Definição do Backlog:** [`docs/daily
+/sprint_1/
+`](https://github.com/the-compilers-organization/conectando_leitores/tree/main/docs/daily/sprint_1)
+
+**2. Sprint 2 – Estruturação Técnica e Qualidade do Sistema:** [`docs/daily
+/sprint_2/`](https://github.com/the-compilers-organization/conectando_leitores/tree/main/docs/daily/sprint_2)
 
 ---
 
@@ -108,7 +119,16 @@ A organização do projeto segue práticas ágeis (Scrum), com registros de plan
 
 - Avaliação das sprints  
 - Pontos de melhoria  
-- Plano de ação para evolução contínua  
+- Plano de ação para evolução contínua
+
+#### Registro das Retrospectivas:
+
+**1. Sprint 1 – Planejamento e Definição do Backlog:** [`docs/retrospective
+/retrospective_sprint_1.png
+`](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/retrospective/retrospective_sprint_1.png)
+
+**2. Sprint 2 – Estruturação Técnica e Qualidade do Sistema:** [`docs/retrospective
+/retrospective_sprint_2.png`](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/retrospective/retrospective_sprint_2.png)
 
 ------------------------------------------------------------------------
 
