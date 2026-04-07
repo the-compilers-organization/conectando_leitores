@@ -82,7 +82,7 @@ A organização do projeto segue práticas ágeis (Scrum), com registros de plan
 - Definição de objetivos  
 - Backlog das Sprints
 
-#### Registro do Planejamento:
+#### Registros dos Planejamentos:
 
 **1. Sprint 1 – Planejamento e Definição do Backlog:** [`docs/planning
 /planning_sptint_1_Planejamento_Definicao_Backlog.md
@@ -103,7 +103,7 @@ A organização do projeto segue práticas ágeis (Scrum), com registros de plan
 - Acompanhamento do progresso  
 - Identificação de impedimentos
 
-#### Registro das Dailys:
+#### Registros das Dailys:
 
 **1. Sprint 1 – Planejamento e Definição do Backlog:** [`docs/daily
 /sprint_1/
@@ -121,7 +121,7 @@ A organização do projeto segue práticas ágeis (Scrum), com registros de plan
 - Pontos de melhoria  
 - Plano de ação para evolução contínua
 
-#### Registro das Retrospectivas:
+#### Registros das Retrospectivas:
 
 **1. Sprint 1 – Planejamento e Definição do Backlog:** [`docs/retrospective
 /retrospective_sprint_1.png
