@@ -1,5 +1,8 @@
 # 🔵 Sprint 2 – Estruturação Técnica e Qualidade do Sistema
 
+📅 **Período:** 15/03/2026 a 28/03/2026  
+⏱️ **Duração:** 2 semanas  
+
 ------------------------------------------------------------------------
 
 ## 1️⃣ Objetivo da Sprint
@@ -36,17 +39,17 @@ Dividir cada história de usuário em tasks técnicas e organizadas.
 
 ## Critérios de Aceitação
 
-- [x] Tasks criadas para cada história
-- [x] Tasks numeradas e nomeadas
-- [x] Tasks vinculadas às histórias
+- [ ] Tasks criadas para cada história
+- [ ] Tasks numeradas e nomeadas
+- [ ] Tasks vinculadas às histórias
 
 ------------------------------------------------------------------------
 
 ## Definition of Done
 
-- [x] Implementado
-- [x] Testado
-- [x] Documentado
+- [ ] Implementado
+- [ ] Testado
+- [ ] Documentado
 
 ------------------------------------------------------------------------
 
@@ -74,10 +77,10 @@ Identificar, documentar e organizar os requisitos não funcionais do sistema Con
 
 ## Critérios de Aceitação
 
-- [x] Requisitos não funcionais identificados
-- [x] RNFs documentados de forma clara
-- [x] RNFs associados ao contexto do sistema
-- [x] Revisão realizada com a equipe
+- [ ] Requisitos não funcionais identificados
+- [ ] RNFs documentados de forma clara
+- [ ] RNFs associados ao contexto do sistema
+- [ ] Revisão realizada com a equipe
 
 ------------------------------------------------------------------------
 
@@ -90,9 +93,9 @@ Identificar, documentar e organizar os requisitos não funcionais do sistema Con
 
 ## Definition of Done
 
-- [x] Implementado
-- [x] Testado
-- [x] Documentado
+- [ ] Implementado
+- [ ] Testado
+- [ ] Documentado
 
 ------------------------------------------------------------------------
 
@@ -100,12 +103,12 @@ Identificar, documentar e organizar os requisitos não funcionais do sistema Con
 
 Ao final da Sprint 2, foram entregues:
 
-- Tasks criadas para as histórias de usuário US01 a US04
-- Tasks organizadas, nomeadas e vinculadas corretamente no GitHub Projects
-- Estrutura técnica do desenvolvimento definida (quebra em atividades menores)
-- Requisitos não funcionais definidos (segurança, desempenho, usabilidade, etc.)
-- RNFs documentados de forma mensurável e alinhados ao sistema
-- Base preparada para início do desenvolvimento técnico
+- Tasks criadas para as histórias de usuário US01 a US04  
+- Tasks organizadas, nomeadas e vinculadas corretamente no GitHub Projects  
+- Estrutura técnica do desenvolvimento definida (quebra em atividades menores)  
+- Requisitos não funcionais definidos (segurança, desempenho, usabilidade, etc.)  
+- RNFs documentados de forma mensurável e alinhados ao sistema  
+- Base preparada para início do desenvolvimento técnico  
 
 ------------------------------------------------------------------------
 
