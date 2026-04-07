@@ -39,17 +39,17 @@ Dividir cada história de usuário em tasks técnicas e organizadas.
 
 ## Critérios de Aceitação
 
-- [ ] Tasks criadas para cada história
-- [ ] Tasks numeradas e nomeadas
-- [ ] Tasks vinculadas às histórias
+- [x] Tasks criadas para cada história
+- [x] Tasks numeradas e nomeadas
+- [x] Tasks vinculadas às histórias
 
 ------------------------------------------------------------------------
 
 ## Definition of Done
 
-- [ ] Implementado
-- [ ] Testado
-- [ ] Documentado
+- [x] Implementado
+- [x] Testado
+- [x] Documentado
 
 ------------------------------------------------------------------------
 
@@ -77,10 +77,10 @@ Identificar, documentar e organizar os requisitos não funcionais do sistema Con
 
 ## Critérios de Aceitação
 
-- [ ] Requisitos não funcionais identificados
-- [ ] RNFs documentados de forma clara
-- [ ] RNFs associados ao contexto do sistema
-- [ ] Revisão realizada com a equipe
+- [x] Requisitos não funcionais identificados
+- [x] RNFs documentados de forma clara
+- [x] RNFs associados ao contexto do sistema
+- [x] Revisão realizada com a equipe
 
 ------------------------------------------------------------------------
 
@@ -93,9 +93,9 @@ Identificar, documentar e organizar os requisitos não funcionais do sistema Con
 
 ## Definition of Done
 
-- [ ] Implementado
-- [ ] Testado
-- [ ] Documentado
+- [x] Implementado
+- [x] Testado
+- [x] Documentado
 
 ------------------------------------------------------------------------
 
