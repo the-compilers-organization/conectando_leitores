@@ -8,82 +8,111 @@
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
 </p>
 
-> Status do Projeto: :heavy_check_mark: (concluido) | :warning: (em desenvolvimento) | :x: (não iniciada)
+> Status do Projeto: :heavy_check_mark: (concluído) | :warning: (em desenvolvimento) | :x: (não iniciada)
 
-### Tópicos 
+------------------------------------------------------------------------
 
-:small_blue_diamond: [Contexto](#contexto-information_source) :heavy_check_mark:
+## 📑 Tópicos 
 
-:small_blue_diamond: [Problema](#problema-writing_hand) :heavy_check_mark:
+:small_blue_diamond: [Contexto](#contexto-information_source)  
+:small_blue_diamond: [Problema](#problema-writing_hand)  
+:small_blue_diamond: [Público-Alvo](#público-alvo-busts_in_silhouette)  
+:small_blue_diamond: [Objetivo](#objetivo-dart)  
+:small_blue_diamond: [Funcionalidades](#funcionalidades-video_game)  
+:small_blue_diamond: [Documentação Ágil](#documentação-ágil-clipboard)  
+:small_blue_diamond: [Desenvolvedores/Contribuintes](#desenvolvedorescontribuintes-octocat)  
 
-:small_blue_diamond: [Público-Alvo](#público-alvo-busts_in_silhouette) :heavy_check_mark:
-
-:small_blue_diamond: [Objetivo](#objetivo-dart) :heavy_check_mark:
-
-:small_blue_diamond: [Funcionalidades](#funcionalidades-video_game) :heavy_check_mark:
-
-:small_blue_diamond: [Desenvolvedores/Contribuintes](#desenvolvedorescontribuintes-octocat)
-
-... 
+------------------------------------------------------------------------
 
 ## Contexto :information_source:
 
 <p align="justify">
-  Plataforma digital para troca de livros entre usuários.
+Plataforma digital para troca de livros entre usuários, promovendo o compartilhamento de conhecimento e incentivando a leitura de forma acessível e colaborativa.
 </p>
 
-...
+------------------------------------------------------------------------
 
 ## Problema :writing_hand:
 
 <p align="justify">
-  Muitas pessoas possuem livros parados em casa e gostariam de acessar novas leituras sem custo, mas não possuem uma plataforma simples e segura para realizar trocas com outras pessoas da comunidade.
+Muitas pessoas possuem livros parados em casa e gostariam de acessar novas leituras sem custo, mas não possuem uma plataforma simples e segura para realizar trocas com outras pessoas da comunidade.
 </p>
 
-...
+------------------------------------------------------------------------
 
 ## Público-Alvo :busts_in_silhouette:
 
-- Leitores
-- Estudantes
-- Pessoas interessadas em leitura
-- Comunidades de troca de livros
+- Leitores  
+- Estudantes  
+- Pessoas interessadas em leitura  
+- Comunidades de troca de livros  
 
-...
+------------------------------------------------------------------------
 
 ## Objetivo :dart:
 
 <p align="justify">
-  Permitir que usuários cadastrem livros disponíveis para troca, encontrem livros de interesse e realizem negociações de forma simples e organizada.
+Permitir que usuários cadastrem livros disponíveis para troca, encontrem livros de interesse e realizem negociações de forma simples, organizada e segura.
 </p>
 
-...
+------------------------------------------------------------------------
 
 ## Funcionalidades :video_game:
 
-**Essenciais para um MVP:**
+### ✔ Essenciais para um MVP:
 
-  1. Cadastro de usuário
-  2. Login de usuário
-  3. Cadastro de livro
-  4. Listagem de livros disponíveis
-  5. Busca por título/autor/gênero
-  6. Solicitação de troca
-  7. Aceitar ou recusar troca
+1. Cadastro de usuário  
+2. Login de usuário  
+3. Cadastro de livro  
+4. Listagem de livros disponíveis  
+5. Busca por título/autor/gênero  
+6. Solicitação de troca  
+7. Aceitar ou recusar troca  
 
-...
+------------------------------------------------------------------------
 
-## Desenvolvedores/Contribuintes :octocat:
+## 📋 Documentação Ágil :clipboard:
+
+A organização do projeto segue práticas ágeis (Scrum), com registros de planejamento, dailys e retrospectivas.
+
+### 📅 Planning (Planejamento das Sprints)
+📁 [`docs/planning`](./docs/planning)
+
+- Planejamento das Sprints  
+- Definição de objetivos  
+- Backlog das Sprints  
+
+---
+
+### 🗓️ Daily Scrum
+📁 [`docs/daily`](./docs/daily)
+
+- Registros diários das atividades da equipe  
+- Acompanhamento do progresso  
+- Identificação de impedimentos  
+
+---
+
+### 🔄 Sprint Retrospective
+📁 [`docs/retrospective`](./docs/retrospective)
+
+- Avaliação das sprints  
+- Pontos de melhoria  
+- Plano de ação para evolução contínua  
+
+------------------------------------------------------------------------
+
+## 👨‍💻 Desenvolvedores/Contribuintes :octocat:
 
 Time responsável pelo desenvolvimento do projeto
 
-| [<img src="https://avatars.githubusercontent.com/u/222337719?v=4" width=115><br><sub>Allan Lucas</sub>](https://github.com/allagez) | [<img src="https://avatars.githubusercontent.com/u/229312657?v=4" width=115><br><sub>Breno Bezerra</sub>](https://github.com/brenobezerra2014-cyber) | [<img src="https://avatars.githubusercontent.com/u/130801505?v=4" width=115><br><sub>Francis Lauriano</sub>](https://github.com/FrancisLauriano) | [<img src="https://avatars.githubusercontent.com/u/234993270?v=4" width=115><br><sub>Jeanne Espíndola</sub>](https://github.com/Jeanne3229)
-| :---: | :---: | :---: | :---:
+| [<img src="https://avatars.githubusercontent.com/u/222337719?v=4" width=115><br><sub>Allan Lucas</sub>](https://github.com/allagez) | [<img src="https://avatars.githubusercontent.com/u/229312657?v=4" width=115><br><sub>Breno Bezerra</sub>](https://github.com/brenobezerra2014-cyber) | [<img src="https://avatars.githubusercontent.com/u/130801505?v=4" width=115><br><sub>Francis Lauriano</sub>](https://github.com/FrancisLauriano) | [<img src="https://avatars.githubusercontent.com/u/234993270?v=4" width=115><br><sub>Jeanne Espíndola</sub>](https://github.com/Jeanne3229) |
+| :---: | :---: | :---: | :---: |
 
-...
+------------------------------------------------------------------------
 
-## Licença 
+## 📄 Licença 
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: 2026 - Conectando Leitores
+Copyright © 2026 - Conectando Leitores
