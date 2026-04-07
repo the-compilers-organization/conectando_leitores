@@ -80,7 +80,15 @@ A organização do projeto segue práticas ágeis (Scrum), com registros de plan
 
 - Planejamento das Sprints  
 - Definição de objetivos  
-- Backlog das Sprints  
+- Backlog das Sprints
+
+1. Sprint 1 – Planejamento e Definição do Backlog: [`docs/planning
+/planning_sptint_1_Planejamento_Definicao_Backlog.md
+`](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/planning%20/planning_sptint_1_Planejamento_Definicao_Backlog.md)
+2. Sprint 2 – Estruturação Técnica e Qualidade do Sistema: [`docs/planning
+/planning_sptint_2_Estruturacao_Tecnica_Qualidade_Sistema.md`](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/planning%20/planning_sptint_2_Estruturacao_Tecnica_Qualidade_Sistema.md)
+3. Sprint 3 – Gestão de Mudança no Projeto: [`docs/planning
+/planning_sptint_3_Gestao_Mudanca_Projeto.md`](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/planning%20/planning_sptint_3_Gestao_Mudanca_Projeto.md)
 
 ---
 
