@@ -81,6 +81,8 @@ A organização do projeto segue práticas ágeis (Scrum), com registros de plan
 - Planejamento das Sprints  
 - Definição de objetivos  
 - Backlog das Sprints
+- Incremento da Sprint
+- Resultado esperado da Sprint
 
 #### Registros dos Planejamentos:
 
