@@ -121,7 +121,7 @@ A organização do projeto segue práticas ágeis (Scrum), com registros de plan
 
 - Avaliação das sprints  
 - Pontos de melhoria  
-- Plano de ação para evolução contínua
+- Ação para evolução contínua
 
 #### Registros das Retrospectivas:
 
