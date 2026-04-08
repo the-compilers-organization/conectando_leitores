@@ -19,7 +19,7 @@
 :small_blue_diamond: [Público-Alvo](#público-alvo-busts_in_silhouette)  
 :small_blue_diamond: [Objetivo](#objetivo-dart)  
 :small_blue_diamond: [Funcionalidades](#funcionalidades-video_game)  
-:small_blue_diamond: [Documentação Ágil](#documentação-ágil-clipboard)  
+:small_blue_diamond: [Documentação Ágil](#documentacao-agil-clipboard)  
 :small_blue_diamond: [Desenvolvedores/Contribuintes](#desenvolvedorescontribuintes-octocat)  
 
 ------------------------------------------------------------------------
