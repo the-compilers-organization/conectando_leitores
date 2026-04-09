@@ -7,23 +7,34 @@
 
 ## 1️⃣ Descrição da Mudança
 
-Durante o desenvolvimento do sistema, foi identificada a necessidade de melhorar o controle de disponibilidade dos livros no fluxo de trocas.
+Durante o desenvolvimento do sistema, foram identificados diversos bugs críticos (P0) que comprometem a segurança, validação de dados e consistência das regras de negócio.
 
-Foi observado que, ao aceitar ou recusar uma troca, havia risco de inconsistência na exibição dos livros, permitindo que livros indisponíveis aparecessem nas buscas.
+Esses problemas afetam diretamente funcionalidades essenciais como cadastro, login e gerenciamento de livros.
 
-Diante disso, foi proposta a seguinte mudança:
+Diante disso, foi necessária uma mudança no planejamento da Sprint para priorizar a correção desses defeitos antes da evolução de novas funcionalidades.
 
-👉 Implementar controle rigoroso de status dos livros (Disponível, Em negociação, Trocado)  
-👉 Garantir atualização automática do status dos livros conforme ações de troca (aceitar, recusar, cancelar)
+### 🐞 Bugs identificados
+
+- #79 – Cadastro de usuário permite e-mail duplicado  
+- #80 – Senha de usuários armazenada sem criptografia  
+- #81 – Livros com status "Trocado" ainda aparecem na lista de disponíveis  
+- #82 – Regras de exibição de livros não são respeitadas na listagem  
+- #83 – Livro cadastrado não é exibido na lista "Meus Livros"  
+- #85 – Campo de login não valida formato de e-mail  
+- #86 – Login aceita senha incorreta  
+- #87 – Cadastro concluído com campo de título preenchido por espaços  
 
 ------------------------------------------------------------------------
 
 ## 2️⃣ Impacto no Backlog
 
-A mudança impactou diretamente o Product Backlog da seguinte forma:
+A inclusão desses bugs impactou diretamente o Product Backlog:
 
-### 🔹 Histórias de usuário modificadas
+### 🔹 Histórias de usuário impactadas
 
+- US01 – Cadastro de Usuário  
+- US02 – Login do Usuário  
+- US03 – Cadastro do Livro  
 - US04 – Visualizar Livros  
 - US07 – Solicitar Troca de Livro  
 - US08 – Aceitar Troca de Livro  
@@ -32,27 +43,34 @@ A mudança impactou diretamente o Product Backlog da seguinte forma:
 
 ### 🔹 Ajustes realizados
 
-- Inclusão de validações de status dos livros  
-- Atualização dos critérios de aceitação (BDD)  
-- Ajuste nas regras de negócio relacionadas à visibilidade dos livros  
+- Inclusão de bugs como itens prioritários no backlog  
+- Atualização de regras de negócio e validações  
+- Ajuste nos critérios de aceitação (BDD)  
+- Reforço de validações de entrada e segurança  
 
 ### 🔹 Impacto nas tasks
 
-- Criação de novas tasks para validação de status  
-- Ajustes em tasks existentes relacionadas à listagem e troca de livros  
-- Inclusão de testes adicionais (cenários positivos e negativos)
+- Criação de tasks específicas para correção de bugs  
+- Revisão de tasks existentes  
+- Inclusão de testes adicionais (unitários e validação de cenários negativos)  
+- Priorização de correções antes de novas implementações  
 
 ------------------------------------------------------------------------
 
 ## 3️⃣ Decisão de Priorização
 
-A equipe decidiu priorizar essa mudança com alta prioridade (P0), pois impacta diretamente a experiência do usuário e a consistência do sistema.
+A equipe decidiu priorizar todos os bugs como **P0 (alta prioridade)**, pois:
 
-A reorganização do backlog considerou:
+- Afetam funcionalidades essenciais do sistema  
+- Comprometem a segurança (ex: senha sem criptografia)  
+- Quebram regras de negócio (ex: livros trocados visíveis)  
+- Geram inconsistência de dados  
 
-- Ajuste imediato das histórias afetadas  
-- Repriorização das tasks relacionadas ao fluxo de troca  
-- Garantia de consistência antes da implementação de novas funcionalidades  
+A reorganização do backlog incluiu:
+
+- Pausa no desenvolvimento de novas funcionalidades  
+- Foco total na correção dos bugs  
+- Replanejamento das tasks da sprint  
 
 ------------------------------------------------------------------------
 
@@ -61,32 +79,36 @@ A reorganização do backlog considerou:
 A decisão foi baseada nos seguintes fatores:
 
 ### ✔ Valor para o usuário
-- Evita confusão ao exibir livros indisponíveis  
-- Garante confiabilidade na plataforma  
+- Garante segurança no sistema (criptografia de senha)  
+- Evita erros de uso e inconsistências  
+- Melhora a confiabilidade da plataforma  
 
 ### ✔ Complexidade de implementação
-- Complexidade moderada  
-- Necessidade de controle de estado (status)  
+- Baixa a moderada (validações e correções)  
+- Necessidade de ajustes em múltiplos módulos  
 
 ### ✔ Dependências técnicas
-- Dependência entre módulos de livros e trocas  
-- Integração com listagem e notificações  
+- Módulo de autenticação (login/cadastro)  
+- Módulo de livros (listagem e cadastro)  
+- Integração entre regras de negócio e interface  
 
 ### ✔ Impacto no cronograma
-- Pequeno impacto no prazo  
+- Médio impacto  
 - Necessário para evitar retrabalho futuro  
+- Redução de riscos para próximas sprints  
 
 ------------------------------------------------------------------------
 
 ## 📊 Resultado Esperado
 
-- Sistema com controle consistente de status  
-- Regras de negócio respeitadas  
+- Sistema mais seguro (criptografia e validações)  
+- Regras de negócio corretamente aplicadas  
+- Eliminação de inconsistências na listagem de livros  
 - Melhor experiência do usuário  
-- Redução de bugs relacionados à troca de livros  
+- Redução significativa de falhas críticas  
 
 ------------------------------------------------------------------------
 
 ## 📌 Observações
 
-A gestão de mudanças durante a Sprint demonstra a aplicação prática de metodologias ágeis, permitindo adaptação contínua do sistema conforme novas necessidades identificadas.
+A gestão de bugs durante a Sprint evidencia a importância da adaptação contínua no Scrum, permitindo priorizar qualidade e estabilidade do sistema antes da evolução de novas funcionalidades.
