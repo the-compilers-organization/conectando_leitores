@@ -1,72 +1,36 @@
----
-about: Registro de Daily Scrum
-labels: daily
-name: Daily Scrum
-title: DAILY - [DATA] - [NOME]
+# 📅 Daily - DD/MM/AAAA
+
 ---
 
-## 🗓️ Data
-
-[DD/MM/AAAA]
-
-------------------------------------------------------------------------
-
-## 👤 Participante
-
+## 👤 Participante  
 Nome:  
-Time:  
+Projeto: Conectando Leitores  
 
-------------------------------------------------------------------------
+---
 
-## ✅ O que fiz ontem?
+## ✅ O que foi feito ontem?  
+-  
 
-- 
-- 
-- 
+---
 
-------------------------------------------------------------------------
+## 🚧 O que será feito hoje?  
+-  
 
-## 🚧 O que vou fazer hoje?
+---
 
-- 
-- 
-- 
+## ⚠️ Impedimentos / Bloqueios  
+-  
 
-------------------------------------------------------------------------
+---
 
-## ⚠️ Impedimentos / Bloqueios
-
-- 
-- 
-- 
-
-------------------------------------------------------------------------
-
-## 💬 Observações
-
-- 
-- 
-
-------------------------------------------------------------------------
-
-## 📊 Status Geral
-
+## 📊 Status Geral  
 - [ ] 🟢 No caminho  
 - [ ] 🟡 Atenção  
-- [ ] 🔴 Bloqueado  
+- [ ] 🔴 Atrasado  
 
-------------------------------------------------------------------------
+---
 
-## 🔗 Itens relacionados
+## 🔗 Itens Relacionados  
+-  
 
-Issues: #ID  
-PRs: #ID  
-
-------------------------------------------------------------------------
-
-## 📌 Campos recomendados no Board
-
-Tipo: Daily  
-Sprint: Sprint X  
-Responsável: Nome  
-Status: To Do / In Progress / Done
+---
