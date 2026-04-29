@@ -147,7 +147,7 @@ Avaliação das Sprints com foco em melhoria contínua:
 ---
 
 ### 📊 Métricas e Análise de Desempenho
-📁 [`docs`](./docs/metrics)
+📁 [`docs/metrics`](./docs/metrics)
 
 Análise baseada em métricas ágeis para avaliar a evolução do projeto:
 
