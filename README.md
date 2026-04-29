@@ -71,73 +71,98 @@ Permitir que usuários cadastrem livros disponíveis para troca, encontrem livro
 
 ------------------------------------------------------------------------
 
-## Documentação Ágil :clipboard:
+## 📚 Documentação Ágil
 
-A organização do projeto segue práticas ágeis (Scrum), com registros de planejamento, dailys e retrospectivas.
+A organização do projeto segue práticas ágeis baseadas em **Scrum**, com registros completos de planejamento, execução e melhoria contínua ao longo das Sprints.
+
+---
 
 ### 📅 Planning (Planejamento das Sprints)
 📁 [`docs/planning`](./docs/planning)
 
-- Planejamento das Sprints  
+Contém os registros de planejamento das Sprints, incluindo:
+
 - Definição de objetivos  
-- Backlog das Sprints
-- Incremento da Sprint
-- Resultado esperado da Sprint
+- Backlog da Sprint  
+- Estimativas (Story Points)  
+- Registro das dailys  
+- Incremento entregue  
+- Resultado da Sprint  
 
-#### Registros dos Planejamentos:
+#### 📄 Registros:
 
-**1. Sprint 1 – Planejamento e Definição do Backlog:** [`docs/planning
-/planning_sptint_1_Planejamento_Definicao_Backlog.md
-`](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/planning%20/planning_sptint_1_Planejamento_Definicao_Backlog.md)
+- **Sprint 1 – Planejamento e Definição do Backlog**  
+  🔗 [Acessar documento](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/planning/planning_sptint_1_Planejamento_Definicao_Backlog.md)
 
-**2. Sprint 2 – Estruturação Técnica e Qualidade do Sistema:** [`docs/planning
-/planning_sptint_2_Estruturacao_Tecnica_Qualidade_Sistema.md`](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/planning%20/planning_sptint_2_Estruturacao_Tecnica_Qualidade_Sistema.md)
+- **Sprint 2 – Estruturação Técnica e Qualidade do Sistema**  
+  🔗 [Acessar documento](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/planning/planning_sptint_2_Estruturacao_Tecnica_Qualidade_Sistema.md)
 
-**3. Sprint 3 – Gestão de Mudança no Projeto:** [`docs/planning
-/planning_sptint_3_Gestao_Mudanca_Projeto.md`](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/planning%20/planning_sptint_3_Gestao_Mudanca_Projeto.md)
+- **Sprint 3 – Gestão de Mudança no Projeto**  
+  🔗 [Acessar documento](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/planning/planning_sptint_3_Gestao_Mudanca_Projeto.md)
 
 ---
 
 ### 🗓️ Daily Scrum
 📁 [`docs/daily`](./docs/daily)
 
-- Registros diários das atividades da equipe  
-- Acompanhamento do progresso  
-- Identificação de impedimentos
+Registros diários das atividades da equipe, contendo:
 
-#### Registros das Dailys:
+- O que foi feito  
+- O que será feito  
+- Impedimentos encontrados  
 
-**1. Sprint 1 – Planejamento e Definição do Backlog:** [`docs/daily
-/sprint_1/
-`](https://github.com/the-compilers-organization/conectando_leitores/tree/main/docs/daily/sprint_1)
+#### 📄 Registros:
 
-**2. Sprint 2 – Estruturação Técnica e Qualidade do Sistema:** [`docs/daily
-/sprint_2/`](https://github.com/the-compilers-organization/conectando_leitores/tree/main/docs/daily/sprint_2)
+- **Sprint 1**  
+  🔗 [Acessar dailys](https://github.com/the-compilers-organization/conectando_leitores/tree/main/docs/daily/sprint_1)
 
-**3. Sprint 3 – Gestão de Mudança no Projeto:** [`docs/daily
-/sprint_3/`](https://github.com/the-compilers-organization/conectando_leitores/tree/main/docs/daily/sprint_3)
+- **Sprint 2**  
+  🔗 [Acessar dailys](https://github.com/the-compilers-organization/conectando_leitores/tree/main/docs/daily/sprint_2)
 
+- **Sprint 3**  
+  🔗 [Acessar dailys](https://github.com/the-compilers-organization/conectando_leitores/tree/main/docs/daily/sprint_3)
 
 ---
 
 ### 🔄 Sprint Retrospective
 📁 [`docs/retrospective`](./docs/retrospective)
 
-- Avaliação das sprints  
-- Pontos de melhoria  
-- Ação para evolução contínua
+Avaliação das Sprints com foco em melhoria contínua:
 
-#### Registros das Retrospectivas:
+- O que funcionou bem  
+- O que pode melhorar  
+- Ações para próximas Sprints  
 
-**1. Sprint 1 – Planejamento e Definição do Backlog:** [`docs/retrospective
-/retrospectiva_sprint_1.md
-`](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/retrospective/retrospectiva_sprint_1.md)
+#### 📄 Registros:
 
-**2. Sprint 2 – Estruturação Técnica e Qualidade do Sistema:** [`docs/retrospective
-/retrospectiva_sprint_2.md`](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/retrospective/retrospectiva_sprint_2.md)
+- **Sprint 1**  
+  🔗 [Acessar retrospectiva](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/retrospective/retrospectiva_sprint_1.md)
 
-**3. Sprint 3 – Gestão de Mudança no Projeto:** [`docs/retrospective
-/retrospectiva_sprint_3.md`](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/retrospective/retrospectiva_sprint_3.md)
+- **Sprint 2**  
+  🔗 [Acessar retrospectiva](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/retrospective/retrospectiva_sprint_2.md)
+
+- **Sprint 3**  
+  🔗 [Acessar retrospectiva](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/retrospective/retrospectiva_sprint_3.md)
+
+---
+
+### 📊 Métricas e Análise de Desempenho
+📁 [`docs`](./docs/metrics)
+
+Análise baseada em métricas ágeis para avaliar a evolução do projeto:
+
+- Velocity das Sprints  
+- Comparação de desempenho  
+- Análise de produtividade  
+- Ações de melhoria  
+
+🔗 [Acessar análise completa](./docs/metrics/metrics_analise_desempenho.md.md)
+
+---
+
+## ✅ Observação
+
+Toda a documentação foi organizada e mantida no GitHub Projects, garantindo rastreabilidade das atividades, transparência do processo e alinhamento com práticas ágeis.
 
 
 ------------------------------------------------------------------------
