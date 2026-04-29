@@ -1,6 +1,6 @@
 # 📊 Métricas e Análise de Desempenho – Conectando Leitores
 
-📅 **Período analisado:** Sprint 1 e Sprint 2  
+📅 **Período analisado:** Sprint 1, Sprint 2 e Sprint 3  
 🎯 **Objetivo:** Avaliar produtividade, previsibilidade e evolução do projeto com base em métricas ágeis reais.
 
 ------------------------------------------------------------------------
@@ -15,32 +15,42 @@ A Velocity foi calculada considerando **apenas histórias concluídas (Done)** a
 
 ### 🔹 Sprint 2
 - Histórias concluídas: US00.3, US00.4  
-- Story Points totais: **13**
+- Story Points totais: **6**
+
+### 🔹 Sprint 3
+- História concluída: US16 – Gestão de Mudança  
+- Story Points totais: **5**
+
+⚠️ **Observação importante:**  
+A Sprint 3 teve foco em **gestão de mudança**, envolvendo identificação, análise, registro e priorização de mudanças, sem implementação das correções dos bugs.
+
+------------------------------------------------------------------------
 
 ### 📊 Resultado
 
-| Sprint   | Story Points |
-|---------|-------------|
-| Sprint 1 | 8           |
-| Sprint 2 | 13          |
+| Sprint | História(s) concluída(s) | Story Points |
+|---|---|---|
+| Sprint 1 | US00.1, US00.2 | 8 |
+| Sprint 2 | US00.3, US00.4 | 6 |
+| Sprint 3 | US16 | 5 |
 
-👉 **Critério adotado:**  
-Somente histórias com todos os critérios de aceitação atendidos (Definition of Done completo).
+**Critério adotado:**  
+Foram contabilizadas apenas histórias com critérios de aceitação e Definition of Done concluídos.
 
 ------------------------------------------------------------------------
 
 ## 2️⃣ Comparação entre Sprints
 
-- Houve **aumento da Velocity (8 → 13)**  
-- Indica evolução na produtividade da equipe  
-- Melhor entendimento do processo ágil na Sprint 2  
+- Sprint 1 → Sprint 2: houve redução de **8 para 6 pontos**
+- Sprint 2 → Sprint 3: houve redução de **6 para 5 pontos**
 
 ### 📈 Interpretação
 
-- Sprint 1 → foco em aprendizado e organização  
-- Sprint 2 → maior eficiência e melhor execução  
+- **Sprint 1:** foco em planejamento, definição de Epics e criação das histórias de usuário.
+- **Sprint 2:** foco em estruturação técnica, criação de tasks e definição dos RNFs.
+- **Sprint 3:** foco em gestão de mudança, análise de bugs, impacto e priorização.
 
-👉 A equipe passou de um cenário inicial de adaptação para maior previsibilidade.
+A redução da Velocity não representa necessariamente queda de desempenho, pois cada Sprint teve um tipo de trabalho diferente. A Sprint 3, por exemplo, não teve foco em entregar funcionalidades, mas em organizar mudanças futuras.
 
 ------------------------------------------------------------------------
 
@@ -48,92 +58,92 @@ Somente histórias com todos os critérios de aceitação atendidos (Definition 
 
 ### 🔎 Fatores que impactaram a Sprint 1
 
-- Inexperiência com métodos ágeis  
-- Dificuldade com GitHub Projects  
-- Escrita inicial das histórias de usuário  
-- Dúvidas na priorização  
+- Inexperiência inicial com Scrum
+- Dificuldade inicial com GitHub Projects
+- Desafios na escrita das histórias de usuário
+- Dúvidas na priorização das funcionalidades
 
 ### 🔎 Fatores que impactaram a Sprint 2
 
-- Melhor divisão de tarefas  
-- Backlog mais estruturado  
-- Definição clara de requisitos não funcionais  
-- Melhor organização técnica  
+- Melhor divisão das tarefas
+- Organização do backlog técnico
+- Definição dos requisitos não funcionais
+- Necessidade de revisar tasks e estimativas
 
-👉 Resultado: aumento de produtividade e melhor fluxo de trabalho.
+### 🔎 Fatores que impactaram a Sprint 3
+
+- Identificação de bugs e inconsistências
+- Necessidade de análise de impacto
+- Priorização de mudanças
+- Replanejamento do backlog
+- Ausência de implementação das correções
 
 ------------------------------------------------------------------------
 
-## 4️⃣ Evidências Visuais (GitHub Projects)
+## 4️⃣ Evidências Visuais – GitHub Projects
 
-### 📊 Status Chart (Estado Atual do Board)
+### 📊 Status Chart – Estado Atual do Board
 
 ![Status Chart](assets/status_chart.png)
 
-#### Interpretação:
-- Alto número de itens em **Ready** → backlog refinado  
-- Itens em **Done** → entregas realizadas  
-- Itens em **To Do** → planejamento contínuo  
+#### Interpretação
 
-👉 Representa o estado atual do projeto.
+- A coluna **Ready** concentra muitos itens, indicando backlog refinado.
+- A coluna **Done** mostra entregas já concluídas.
+- A coluna **To Do** representa itens planejados para execução futura.
+
+O Status Chart representa o estado atual do projeto.
 
 ------------------------------------------------------------------------
 
-### 📈 Burn Up Chart (Evolução do Projeto)
+### 📈 Burn Up Chart – Evolução do Projeto
 
 ![Burn Up Chart](assets/burnup_chart.png)
 
-#### Interpretação:
+#### Interpretação
 
-- Linha verde (**Open**) → crescimento do escopo  
-- Linha roxa (**Completed**) → progresso das entregas  
+- A linha verde (**Open**) representa o crescimento do escopo.
+- A linha roxa (**Completed**) representa os itens concluídos.
+- O aumento do escopo evidencia inclusão de novas tarefas, ajustes e bugs.
+- A diferença entre itens abertos e concluídos mostra que ainda há trabalho pendente no backlog.
 
-Observações importantes:
-
-- Aumento do backlog ao longo do tempo → inclusão de novas tarefas e ajustes  
-- Crescimento gradual das entregas → progresso contínuo  
-- Diferença entre linhas → trabalho ainda pendente  
-
-👉 O gráfico evidencia evolução real e mudanças de escopo.
+O Burn Up Chart demonstra a evolução histórica do projeto e ajuda a visualizar mudanças de escopo ao longo das Sprints.
 
 ------------------------------------------------------------------------
 
-## 🔄 Relação entre os Gráficos
+## 5️⃣ Relação entre os Gráficos
 
-- **Status Chart** → visão atual (snapshot)  
-- **Burn Up Chart** → visão histórica (evolução)  
+- **Status Chart:** mostra a situação atual do board.
+- **Burn Up Chart:** mostra a evolução histórica do projeto.
 
-👉 Juntos, permitem análise completa do projeto.
+Mesmo sem snapshots do Kanban por Sprint, os dois gráficos permitem uma análise consistente com base em dados reais do GitHub Projects.
 
 ------------------------------------------------------------------------
 
-## 5️⃣ Ações de Melhoria
+## 6️⃣ Ações de Melhoria
 
-Com base na análise, a equipe definiu:
+Com base na análise, a equipe definiu as seguintes melhorias:
 
-- Melhorar estimativas (Planning Poker)  
-- Refinar histórias antes da Sprint  
-- Manter atualização contínua do board  
-- Acompanhar progresso diariamente  
-- Priorizar validação de requisitos antes da implementação  
+- Melhorar o processo de estimativa utilizando Planning Poker.
+- Refinar histórias antes do início da Sprint.
+- Manter o board atualizado continuamente.
+- Acompanhar o progresso nas dailys.
+- Priorizar validações desde o início.
+- Implementar testes automatizados para reduzir retrabalho.
+- Melhorar a análise de impacto antes da implementação.
 
 ------------------------------------------------------------------------
 
 ## 📊 Conclusão
 
-- A equipe apresentou evolução clara entre as Sprints  
-- Houve aumento de produtividade (Velocity)  
-- O uso de métricas permitiu identificar melhorias no processo  
-- A análise foi baseada em dados reais do GitHub Projects  
+A equipe apresentou evolução no uso de práticas ágeis ao longo das três Sprints.
 
-👉 O projeto demonstrou maturidade crescente no uso de práticas ágeis.
+A Sprint 1 estruturou o backlog, a Sprint 2 organizou tecnicamente o desenvolvimento e a Sprint 3 demonstrou maturidade ao aplicar gestão de mudança antes de executar correções.
+
+A análise foi baseada em dados reais do GitHub Projects, considerando Velocity, Burn Up Chart e Status Chart.
 
 ------------------------------------------------------------------------
 
 ## 📌 Observação Final
 
-Mesmo sem snapshots do Kanban por Sprint, a análise foi realizada com base em:
-
-- Dados reais de entregas (Velocity)  
-- Evolução do projeto (Burn Up Chart)  
-- Estado atual do board (Status Chart)  
+A Sprint 3 não teve como foco corrigir bugs, mas sim identificar, documentar, analisar impacto e priorizar mudanças para execução futura.

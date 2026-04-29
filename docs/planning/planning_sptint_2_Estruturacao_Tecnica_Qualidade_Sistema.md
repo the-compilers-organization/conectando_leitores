@@ -104,7 +104,7 @@ Identificar, documentar e organizar os requisitos não funcionais do sistema Con
 As estimativas foram definidas utilizando Story Points:
 
 - US00.3 – Criar Tasks das Histórias → **3 pontos**
-- US00.4 – Definir RNFs → **3 pontos**
+- US00.4 – Definir Qualidade e Requisitos Não Funcionais  → **3 pontos**
 
 Justificativa:
 

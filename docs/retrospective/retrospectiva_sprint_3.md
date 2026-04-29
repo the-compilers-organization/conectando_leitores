@@ -1,87 +1,89 @@
 # 🟣 Retrospectiva da Sprint 3 – Gestão de Mudança no Projeto
 
-📅 **Período:** 29/03/2026 a 11/04/2026  
-⏱️ **Duração:** 2 semanas  
-🎯 **Foco da Sprint:** Correção de bugs críticos (P0) e estabilização do sistema  
+📅 **Período:** 29/03/2026 a 11/04/2026
+⏱️ **Duração:** 2 semanas
+🎯 **Foco da Sprint:** Aplicação da Gestão de Mudança (US16) no sistema
 
 ---
 
 ## 1️⃣ Objetivo da Sprint
 
-A Sprint 3 teve como objetivo principal corrigir bugs críticos identificados no sistema **Conectando Leitores**, garantindo:
+A Sprint 3 teve como objetivo aplicar a **Gestão de Mudança (US16)** no sistema Conectando Leitores, envolvendo:
 
-- Segurança das informações (criptografia e validações)  
-- Correta aplicação das regras de negócio  
-- Consistência dos dados  
-- Estabilidade do sistema  
+* Identificação de mudanças (bugs e ajustes)
+* Registro no backlog
+* Análise de impacto
+* Priorização das mudanças
+* Planejamento das ações futuras
 
-Além disso, houve uma mudança estratégica no planejamento, priorizando qualidade em vez de novas funcionalidades.
+Além disso, houve uma mudança estratégica no planejamento, priorizando a organização e preparação do backlog para futuras correções.
 
 ---
 
 ## 2️⃣ O que funcionou bem ✅
 
-- ✔ Identificação rápida dos bugs críticos (P0)  
-- ✔ Priorização eficiente no backlog  
-- ✔ Boa adaptação da equipe à mudança de planejamento  
-- ✔ Comunicação clara entre os membros do time  
-- ✔ Correção dos principais problemas de segurança (ex: senha)  
-- ✔ Revisão e melhoria das regras de negócio  
-- ✔ Uso das dailys para acompanhamento contínuo  
+* ✔ Identificação rápida das mudanças e bugs críticos
+* ✔ Registro e organização das mudanças no backlog
+* ✔ Priorização eficiente das mudanças (P0)
+* ✔ Boa adaptação da equipe à mudança de planejamento
+* ✔ Comunicação clara entre os membros do time
+* ✔ Aplicação prática da gestão de mudança
+* ✔ Uso das dailys para acompanhamento contínuo
 
 ---
 
 ## 3️⃣ O que não funcionou bem ⚠️
 
-- ❌ Bugs críticos não identificados em sprints anteriores  
-- ❌ Falta de validações robustas desde o início  
-- ❌ Ausência de testes automatizados  
-- ❌ Retrabalho em funcionalidades já implementadas  
-- ❌ Impacto no cronograma devido à mudança de prioridade  
+* ❌ Mudanças não identificadas em sprints anteriores
+* ❌ Falta de validações desde o início do desenvolvimento
+* ❌ Ausência de testes automatizados
+* ❌ Retrabalho em funcionalidades já implementadas
+* ❌ Impacto no cronograma devido ao replanejamento
 
 ---
 
 ## 4️⃣ O que pode ser melhorado 🔧
 
-- 🔹 Implementar validações desde o início do desenvolvimento  
-- 🔹 Adotar testes unitários e automatizados  
-- 🔹 Refinar melhor os critérios de aceitação (BDD)  
-- 🔹 Revisar funcionalidades antes de avançar para novas etapas  
-- 🔹 Melhorar o processo de revisão de código  
+* 🔹 Implementar validações desde o início
+* 🔹 Adotar testes automatizados
+* 🔹 Refinar critérios de aceitação (BDD)
+* 🔹 Melhorar análise de impacto antes da implementação
+* 🔹 Fortalecer revisão de código
 
 ---
 
 ## 5️⃣ Plano de Ação para a Próxima Sprint 🚀
 
-- 📌 Implementar testes automatizados para funcionalidades críticas  
-- 📌 Revisar todas as validações de entrada  
-- 📌 Refinar histórias de usuário com maior detalhamento  
-- 📌 Garantir cobertura de cenários negativos (BDD)  
-- 📌 Monitorar continuamente possíveis novos bugs  
+* 📌 Implementar testes automatizados
+* 📌 Refinar histórias de usuário com mais detalhes
+* 📌 Melhorar processo de análise de impacto
+* 📌 Garantir validações completas antes da entrega
+* 📌 Executar a correção dos bugs priorizados
 
 ---
 
 ## 6️⃣ Lições Aprendidas 📚
 
-- 💡 Qualidade deve ser prioridade desde o início  
-- 💡 Segurança não pode ser negligenciada  
-- 💡 Pequenos erros podem gerar grandes impactos  
-- 💡 A adaptação é essencial no Scrum  
-- 💡 Testes são fundamentais para evitar retrabalho  
+* 💡 A gestão de mudança é essencial no Scrum
+* 💡 Qualidade deve ser considerada desde o início
+* 💡 Segurança não pode ser negligenciada
+* 💡 Mudanças precisam ser analisadas antes da execução
+* 💡 Testes são fundamentais para evitar retrabalho
 
 ---
 
 ## 7️⃣ Resultado Geral da Sprint 📊
 
-- ✔ Correção dos principais bugs críticos  
-- ✔ Sistema mais seguro e estável  
-- ✔ Regras de negócio corrigidas  
-- ✔ Redução significativa de falhas  
+* ✔ Gestão de mudança aplicada
+* ✔ Mudanças identificadas e documentadas
+* ✔ Impacto analisado
+* ✔ Backlog atualizado e organizado
+* ✔ Planejamento estruturado para correções futuras
 
 ---
 
 ## 📌 Conclusão
 
-A Sprint 3 foi marcada por uma mudança estratégica importante, onde a equipe priorizou a correção de problemas críticos para garantir a qualidade do sistema.
+A Sprint 3 consolidou a aplicação da **Gestão de Mudança (US16)** no projeto, demonstrando a capacidade da equipe de identificar, analisar e priorizar mudanças no sistema.
 
-Essa decisão foi essencial para estabilizar a aplicação e preparar o projeto para evoluções futuras com maior segurança e confiabilidade.
+Mesmo sem a implementação das correções nesta Sprint, o trabalho realizado foi essencial para garantir organização, rastreabilidade e preparação adequada para as próximas etapas do desenvolvimento.

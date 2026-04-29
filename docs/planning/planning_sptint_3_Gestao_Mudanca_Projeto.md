@@ -7,180 +7,143 @@
 
 ## 1️⃣ Objetivo da Sprint
 
-Corrigir bugs críticos (P0) identificados no sistema Conectando Leitores, garantindo segurança, consistência de dados e estabilidade da aplicação antes da evolução de novas funcionalidades.
+Aplicar a **Gestão de Mudança (US16)** no projeto Conectando Leitores, identificando, analisando e planejando mudanças (bugs e ajustes), garantindo qualidade, organização do backlog e preparação para futuras correções.
 
 ------------------------------------------------------------------------
 
-## 2️⃣ Descrição da Mudança
+## 2️⃣ Backlog da Sprint
 
-Durante o desenvolvimento do sistema, foram identificados diversos bugs críticos (P0) que comprometem a segurança, validação de dados e consistência das regras de negócio.
+As seguintes histórias de usuário foram selecionadas do Product Backlog:
 
-Esses problemas afetam diretamente funcionalidades essenciais como cadastro, login e gerenciamento de livros.
+### 🔹 US16 – Gestão de Mudança
 
-Diante disso, foi necessária uma mudança no planejamento da Sprint para priorizar a correção desses defeitos antes da evolução de novas funcionalidades.
+## Epic
 
-### 🐞 Bugs identificados
-
-- #79 – Cadastro de usuário permite e-mail duplicado  
-- #80 – Senha de usuários armazenada sem criptografia  
-- #81 – Livros com status "Trocado" ainda aparecem na lista de disponíveis  
-- #82 – Regras de exibição de livros não são respeitadas na listagem  
-- #83 – Livro cadastrado não é exibido na lista "Meus Livros"  
-- #85 – Campo de login não valida formato de e-mail  
-- #86 – Login aceita senha incorreta  
-- #87 – Cadastro concluído com campo de título preenchido por espaços  
+Relacionado ao épico: E06 – Gestão de Mudança
 
 ------------------------------------------------------------------------
 
-## 3️⃣ Impacto no Backlog
+## História de Usuário
 
-A inclusão desses bugs impactou diretamente o Product Backlog:
-
-### 🔹 Histórias de usuário impactadas
-
-- US01 – Cadastro de Usuário  
-- US02 – Login do Usuário  
-- US03 – Cadastro do Livro  
-- US04 – Visualizar Livros  
-- US07 – Solicitar Troca de Livro  
-- US08 – Aceitar Troca de Livro  
-- US09 – Recusar Troca de Livro  
-- US11 – Cancelar Troca de Livro  
-
-### 🔹 Ajustes realizados
-
-- Inclusão de bugs como itens prioritários no backlog  
-- Atualização de regras de negócio e validações  
-- Ajuste nos critérios de aceitação (BDD)  
-- Reforço de validações de entrada e segurança  
-
-### 🔹 Impacto nas tasks
-
-- Criação de tasks específicas para correção de bugs  
-- Revisão de tasks existentes  
-- Inclusão de testes adicionais (unitários e cenários negativos)  
-- Priorização de correções antes de novas implementações  
+Como **equipe de desenvolvimento**  
+quero **identificar, analisar e gerenciar mudanças no sistema**  
+para **garantir qualidade, organização do backlog e adaptação do projeto**.
 
 ------------------------------------------------------------------------
 
-## 4️⃣ Decisão de Priorização
+## Descrição
 
-A equipe decidiu priorizar todos os bugs como **P0 (alta prioridade)**, pois:
+Durante a Sprint 3, a equipe realizou a gestão de mudanças no sistema Conectando Leitores, identificando bugs e inconsistências.
 
-- Afetam funcionalidades essenciais do sistema  
-- Comprometem a segurança (ex: senha sem criptografia)  
-- Quebram regras de negócio  
-- Geram inconsistência de dados  
+As mudanças foram registradas no backlog, analisadas quanto ao impacto nas funcionalidades existentes e priorizadas conforme criticidade.
 
-A reorganização do backlog incluiu:
-
-- Pausa no desenvolvimento de novas funcionalidades  
-- Foco total na correção dos bugs  
-- Replanejamento das tasks da sprint  
+Cada integrante contribuiu com a criação de bugs vinculados às histórias de usuário, garantindo rastreabilidade, organização e visibilidade das mudanças no projeto.
 
 ------------------------------------------------------------------------
 
-## 5️⃣ Justificativa Técnica
+## Critérios de Aceitação
 
-### ✔ Valor para o usuário
-- Garante segurança no sistema  
-- Evita inconsistências  
-- Melhora a confiabilidade  
-
-### ✔ Complexidade
-- Baixa a moderada  
-- Correções distribuídas em múltiplos módulos  
-
-### ✔ Dependências
-- Autenticação (login/cadastro)  
-- Módulo de livros  
-- Regras de negócio  
-
-### ✔ Impacto no cronograma
-- Médio impacto  
-- Redução de riscos futuros  
+- [x] Mudanças identificadas  
+- [x] Mudanças registradas no backlog  
+- [x] Impacto analisado  
+- [x] Histórias afetadas identificadas  
+- [x] Mudanças priorizadas  
+- [x] Bugs registrados no board  
 
 ------------------------------------------------------------------------
 
-## 6️⃣ Estimativas
+## Regras de Negócio
 
-As estimativas foram definidas considerando a correção dos bugs críticos:
-
-- Correção de bugs P0 (8 bugs) → **8 pontos**
-- Ajustes de validação e segurança → **3 pontos**
-- Revisão de regras de negócio → **3 pontos**
-
-**Total estimado: 14 pontos**
+- Toda mudança deve ser registrada no backlog  
+- Toda mudança deve possuir análise de impacto  
+- Toda mudança deve ser priorizada  
+- Cada bug deve estar vinculado a uma user story  
 
 ------------------------------------------------------------------------
 
-## 7️⃣ Registro das Daily Scrums
+## Definition of Done
 
-As reuniões diárias ocorreram durante toda a Sprint.
+- [x] Mudanças registradas  
+- [x] Impacto analisado  
+- [x] Prioridades definidas  
+- [x] Bugs cadastrados no board  
+- [x] Board atualizado  
+- [x] Documentação atualizada  
+
+------------------------------------------------------------------------
+
+## 3️⃣ Estimativas
+
+As estimativas foram definidas utilizando Story Points:
+
+- US16 – Gestão de Mudança → **5 pontos**
+
+Justificativa:
+
+- Envolve identificação, análise e planejamento de múltiplas mudanças  
+- Impacta diversas funcionalidades do sistema  
+- Requer avaliação de impacto e organização do backlog  
+
+------------------------------------------------------------------------
+
+## 4️⃣ Registro das Daily Scrums
+
+As reuniões diárias foram realizadas durante toda a Sprint.
 
 Cada daily seguiu o padrão:
 
 - O que foi feito  
 - O que será feito  
-- Impedimentos  
+- Impedimentos encontrados  
 
-Resumo:
+Resumo das atividades:
 
-- Identificação e análise dos bugs  
-- Correção das falhas críticas  
-- Ajustes de validações e regras de negócio  
-- Revisão de funcionalidades impactadas  
-- Testes manuais e validação das correções  
+- Identificação de bugs  
+- Registro das mudanças no backlog  
+- Análise de impacto  
+- Priorização das mudanças  
+- Organização do backlog para futuras correções  
 
 📂 Registros completos disponíveis em:
 docs/daily/sprint_3
 
 ------------------------------------------------------------------------
 
-## 8️⃣ Incremento da Sprint
+## 5️⃣ Incremento da Sprint
 
 Ao final da Sprint 3, foram entregues:
 
-- Correção dos 8 bugs críticos identificados  
-- Implementação de criptografia de senha  
-- Validação de e-mail no login e cadastro  
-- Correção das regras de exibição de livros  
-- Ajustes na listagem e cadastro de livros  
-- Sistema mais estável e consistente  
+- Gestão estruturada das mudanças no projeto  
+- Identificação e documentação dos bugs  
+- Registro dos bugs no backlog (GitHub Projects)  
+- Análise de impacto nas histórias de usuário  
+- Priorização das mudanças conforme criticidade  
+- Organização do backlog para futuras correções  
 
 ------------------------------------------------------------------------
 
-## 9️⃣ Retrospectiva da Sprint
+## 6️⃣ Retrospectiva da Sprint
 
 ### ✔ O que funcionou bem
 
-- Identificação rápida dos bugs críticos  
-- Priorização eficiente  
-- Boa adaptação à mudança  
-- Comunicação clara  
-- Uso das dailys para acompanhamento  
+- Aplicação da gestão de mudança  
+- Priorização eficiente dos bugs  
+- Boa comunicação da equipe  
+- Adaptação ao processo ágil  
 
-### ⚠️ O que não funcionou bem
+### ⚠️ O que pode melhorar
 
-- Bugs não identificados anteriormente  
 - Falta de validações desde o início  
+- Bugs não identificados anteriormente  
 - Ausência de testes automatizados  
 - Retrabalho  
-- Impacto no cronograma  
 
-### 🔧 Melhorias
+### 🚀 Ações para a próxima Sprint
 
 - Implementar testes automatizados  
 - Refinar critérios de aceitação  
 - Melhorar revisão de código  
-- Validar antes de avançar  
-
-### 🚀 Ações para próxima Sprint
-
-- Adotar testes automatizados  
-- Garantir cobertura de cenários negativos  
-- Revisar validações  
-- Melhorar refinamento das histórias  
+- Validar antes de implementar  
 
 📂 Registros completos disponíveis em:
 docs/retrospective/retrospectiva_sprint_3.md
@@ -189,13 +152,18 @@ docs/retrospective/retrospectiva_sprint_3.md
 
 ## 📊 Resultado da Sprint
 
-- Bugs críticos corrigidos ✔  
-- Sistema mais seguro ✔  
-- Regras de negócio ajustadas ✔  
-- Estabilidade aumentada ✔  
+- Gestão de mudança aplicada ✔  
+- Bugs identificados e documentados ✔  
+- Impacto analisado ✔  
+- Backlog atualizado ✔  
+- Planejamento preparado para próximas correções ✔  
 
 ------------------------------------------------------------------------
 
 ## 📌 Observações
 
-Esta Sprint evidenciou a importância da adaptação no Scrum e da priorização da qualidade do sistema antes da evolução de novas funcionalidades.
+Esta Sprint não teve como foco a implementação ou correção dos bugs, mas sim a aplicação da **Gestão de Mudança (US16)**, garantindo identificação, análise de impacto e priorização das mudanças.
+
+As correções dos bugs foram planejadas para Sprints futuras, com base na organização realizada nesta etapa.
+
+Essa abordagem está alinhada com as práticas do Scrum, onde mudanças são analisadas e planejadas antes da execução.
