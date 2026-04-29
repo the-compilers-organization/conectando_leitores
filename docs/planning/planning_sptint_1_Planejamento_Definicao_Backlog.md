@@ -91,6 +91,42 @@ Criar histórias de usuário baseadas nos Epics definidos.
 
 ------------------------------------------------------------------------
 
+## 3️⃣ Estimativas
+
+As estimativas foram definidas utilizando Story Points:
+
+- US00.1 – Estruturar Epics do Sistema → **3 pontos**
+- US00.2 – Criar Histórias de Usuário → **5 pontos**
+
+Justificativa:
+- US00.1 possui menor complexidade por ser estrutural
+- US00.2 possui maior esforço por envolver detalhamento e definição de critérios de aceitação
+
+------------------------------------------------------------------------
+
+## 4️⃣ Registro das Daily Scrums
+
+As reuniões diárias foram realizadas de segunda a sexta-feira durante toda a Sprint.
+
+Cada daily seguiu o padrão:
+
+- O que foi feito no dia anterior  
+- O que será feito no dia atual  
+- Impedimentos encontrados  
+
+Resumo das atividades:
+
+- Início do projeto e alinhamento da equipe  
+- Definição do domínio do sistema  
+- Criação dos Epics  
+- Escrita das histórias de usuário  
+- Organização do backlog no GitHub Projects  
+
+📂 Registros completos disponíveis em:
+docs/daily/sprint_1
+
+------------------------------------------------------------------------
+
 ## 5️⃣ Incremento da Sprint
 
 Ao final da Sprint 1, foram entregues:
@@ -100,6 +136,35 @@ Ao final da Sprint 1, foram entregues:
 - Backlog organizado no GitHub Projects  
 - Histórias documentadas com critérios de aceitação (BDD)  
 - Base estruturada para início do desenvolvimento  
+
+------------------------------------------------------------------------
+
+## 6️⃣ Retrospectiva da Sprint
+
+### ✔ O que funcionou bem
+
+- Comunicação entre o grupo  
+- Boa organização e distribuição das tarefas  
+- Cooperação e participação de todos os integrantes  
+- Organização do Board do GitHub Projects  
+- Definição clara do domínio do sistema  
+
+### ⚠️ O que pode melhorar
+
+- Inexperiência inicial com métodos ágeis  
+- Dificuldade inicial com GitHub Projects  
+- Dificuldade na escrita de histórias de usuário  
+- Dúvidas nas priorizações das histórias  
+
+### 🚀 Ações para a próxima Sprint
+
+- Estudo em grupo para compartilhamento de conhecimento  
+- Melhor acompanhamento das histórias de usuário  
+- Atualização constante do board  
+- Melhor organização do fluxo de trabalho  
+
+📂 Registros completos disponíveis em:
+docs/retrospective/retrospectiva_sprint_1.md
 
 ------------------------------------------------------------------------
 

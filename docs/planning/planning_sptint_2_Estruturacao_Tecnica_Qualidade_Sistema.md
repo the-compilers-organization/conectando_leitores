@@ -99,6 +99,44 @@ Identificar, documentar e organizar os requisitos não funcionais do sistema Con
 
 ------------------------------------------------------------------------
 
+## 3️⃣ Estimativas
+
+As estimativas foram definidas utilizando Story Points:
+
+- US00.3 – Criar Tasks das Histórias → **3 pontos**
+- US00.4 – Definir RNFs → **3 pontos**
+
+Justificativa:
+
+- US00.3 possui complexidade moderada (organização e detalhamento técnico)  
+- US00.4 possui complexidade conceitual (qualidade, segurança e desempenho)  
+
+------------------------------------------------------------------------
+
+## 4️⃣ Registro das Daily Scrums
+
+As reuniões diárias foram realizadas de segunda a sexta-feira durante toda a Sprint.
+
+Cada daily seguiu o padrão:
+
+- O que foi feito no dia anterior  
+- O que será feito no dia atual  
+- Impedimentos encontrados  
+
+Resumo das atividades:
+
+- Criação das tasks das histórias de usuário  
+- Organização do backlog técnico  
+- Definição e documentação dos requisitos não funcionais  
+- Revisão e validação das tasks e RNFs  
+- Ajustes na estrutura do board  
+
+📂 Registros completos disponíveis em:
+docs/daily/sprint_2
+
+
+------------------------------------------------------------------------
+
 ## 5️⃣ Incremento da Sprint
 
 Ao final da Sprint 2, foram entregues:
@@ -109,6 +147,33 @@ Ao final da Sprint 2, foram entregues:
 - Requisitos não funcionais definidos (segurança, desempenho, usabilidade, etc.)  
 - RNFs documentados de forma mensurável e alinhados ao sistema  
 - Base preparada para início do desenvolvimento técnico  
+
+------------------------------------------------------------------------
+
+## 6️⃣ Retrospectiva da Sprint
+
+### ✔ O que funcionou bem
+
+- Divisão clara das tarefas entre os membros da equipe  
+- Criação consistente das tasks para as User Stories (US01 a US04)  
+- Definição estruturada dos requisitos não funcionais (RNFs)  
+- Comunicação eficiente entre os membros do time  
+- Uso de critérios de aceitação e padronização das histórias  
+
+### ⚠️ O que pode melhorar
+
+- Pequenas inconsistências na organização inicial do backlog técnico  
+- Falta de definição clara em alguns requisitos no início  
+- Necessidade de melhorar estimativas de esforço (tempo/complexidade)  
+
+### 🚀 Ações para a próxima Sprint
+
+- Revisar e validar requisitos antes de quebrar em tasks  
+- Melhorar o processo de estimativa (Planning Poker ou similar)  
+- Refinar a organização do backlog antes da execução  
+
+📂 Registros completos disponíveis em:
+docs/retrospective/retrospectiva_sprint_2.md
 
 ------------------------------------------------------------------------
 
