@@ -68,7 +68,7 @@ Somente histórias com todos os critérios de aceitação atendidos (Definition 
 
 ### 📊 Status Chart (Estado Atual do Board)
 
-![Status Chart](assets/status_chart.jpg)
+![Status Chart](assets/status_chart.png)
 
 #### Interpretação:
 - Alto número de itens em **Ready** → backlog refinado  
@@ -81,7 +81,7 @@ Somente histórias com todos os critérios de aceitação atendidos (Definition 
 
 ### 📈 Burn Up Chart (Evolução do Projeto)
 
-![Burn Up Chart](assets/burnup_chart.jpg)
+![Burn Up Chart](assets/burnup_chart.png)
 
 #### Interpretação:
 
