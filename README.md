@@ -114,6 +114,10 @@ A organização do projeto segue práticas ágeis (Scrum), com registros de plan
 **2. Sprint 2 – Estruturação Técnica e Qualidade do Sistema:** [`docs/daily
 /sprint_2/`](https://github.com/the-compilers-organization/conectando_leitores/tree/main/docs/daily/sprint_2)
 
+**3. Sprint 3 – Gestão de Mudança no Projeto:** [`docs/daily
+/sprint_3/`](https://github.com/the-compilers-organization/conectando_leitores/tree/main/docs/daily/sprint_3)
+
+
 ---
 
 ### 🔄 Sprint Retrospective
@@ -126,11 +130,15 @@ A organização do projeto segue práticas ágeis (Scrum), com registros de plan
 #### Registros das Retrospectivas:
 
 **1. Sprint 1 – Planejamento e Definição do Backlog:** [`docs/retrospective
-/retrospective_sprint_1.png
-`](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/retrospective/retrospective_sprint_1.png)
+/retrospectiva_sprint_1.md
+`](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/retrospective/retrospectiva_sprint_1.md)
 
 **2. Sprint 2 – Estruturação Técnica e Qualidade do Sistema:** [`docs/retrospective
-/retrospective_sprint_2.png`](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/retrospective/retrospective_sprint_2.png)
+/retrospectiva_sprint_2.md`](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/retrospective/retrospectiva_sprint_2.md)
+
+**3. Sprint 3 – Gestão de Mudança no Projeto:** [`docs/retrospective
+/retrospectiva_sprint_3.md`](https://github.com/the-compilers-organization/conectando_leitores/blob/main/docs/retrospective/retrospectiva_sprint_3.md)
+
 
 ------------------------------------------------------------------------
 
