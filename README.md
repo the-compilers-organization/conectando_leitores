@@ -71,7 +71,7 @@ Permitir que usuários cadastrem livros disponíveis para troca, encontrem livro
 
 ------------------------------------------------------------------------
 
-## 📚 Documentação Ágil
+## Documentação Ágil :clipboard:
 
 A organização do projeto segue práticas ágeis baseadas em **Scrum**, com registros completos de planejamento, execução e melhoria contínua ao longo das Sprints.
 
