@@ -146,6 +146,19 @@ Avaliação das Sprints com foco em melhoria contínua:
 
 ---
 
+### 📊 Métricas e Análise de Desempenho
+📁 [`docs/metrics`](./docs/metrics)
+
+Análise baseada em métricas ágeis para avaliar a evolução do projeto:
+
+- Velocity das Sprints  
+- Comparação de desempenho  
+- Análise de produtividade  
+- Ações de melhoria  
+
+🔗 [Acessar análise completa](./docs/metrics/metrics_analise_desempenho.md.md)
+
+---
 
 ## ✅ Observação
 
