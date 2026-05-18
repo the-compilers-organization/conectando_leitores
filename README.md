@@ -80,7 +80,7 @@ A organização do projeto segue práticas ágeis baseadas em **Scrum**, com reg
 ---
 
 ### 🗺️ Roadmap Ágil
-📁 [`docs/roadmap`](./docs/roadmap)
+📁 [`docs/planning`](./docs/planning)
 
 Documento estratégico responsável por organizar a evolução do produto em ciclos incrementais de entrega.
 
@@ -95,7 +95,7 @@ O roadmap apresenta:
 
 #### 📄 Registro:
 
-🔗 [Acessar roadmap do projeto](./docs/roadmap/roadmap.md)
+🔗 [Acessar roadmap do projeto](./docs/planning/roadmap.md)
 
 ---
 
